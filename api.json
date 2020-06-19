@@ -1,0 +1,8 @@
+{
+    "name": "testing-dharmesh",
+    "description": "A barebones Node.js app using Express 4",
+    "repository": "https://git.heroku.com/testing-dharmesh.git",
+    "logo": "https://sundae.com/wp-content/themes/sundae/assets/img/favicon.png",
+    "keywords": ["node", "express", "heroku"],
+    "image": "heroku/nodejs"
+}
